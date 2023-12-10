@@ -1,0 +1,8 @@
+//
+// Created by 蔡雄江 on 2023/12/10.
+//
+
+#ifndef STREAM_FRAMEWORK_PLUGIN_H
+#define STREAM_FRAMEWORK_PLUGIN_H
+
+#endif //STREAM_FRAMEWORK_PLUGIN_H
